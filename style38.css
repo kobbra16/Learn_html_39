@@ -1,0 +1,198 @@
+#menu a:link,
+#menu a:visited {
+    text-decoration: none;
+    color: #fff;
+    font: bold 13px Arial;
+    display: block;
+    line-height: 30px;
+    padding: 0px 5px;
+}
+
+#wrapper {
+    width: 700px;
+    margin: 50px auto;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+    padding: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    text-align: justify;
+}
+
+#menu a:visited {
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: #fff;
+    font: bold 13px Arial;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 30px;
+    font-family: Arial;
+    display: block;
+    line-height: 30px;
+    padding: 0px 5px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#div {
+    border: 1px solid black;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+#menu {
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    background-color: #484848;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+#menu ul {
+    list-style-type: none;
+    padding: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#menu li {
+    float: left;
+    margin-right: 10px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+#menu a:visited {
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: #fff;
+    font: bold 13px Arial;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 30px;
+    font-family: Arial;
+    display: block;
+    line-height: 30px;
+    padding: 0px 5px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+}
+
+#menu {
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    background-color: #484848;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#menu li {
+    float: left;
+    margin-right: 10px;
+}
+
+p {
+    font: 17px/20px 'Times New Roman';
+    text-indent: 0px;
+    padding: 0px 10px;
+    margin-bottom: 5px;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    font-weight: bold;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#wrapper {
+    width: 700px;
+    margin: 50px auto;
+    padding: 0px;
+    text-align: justify;
+}
